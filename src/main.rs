@@ -1,16 +1,6 @@
 mod textviewer;
 
 use std::env::args;
-use std::fs;
-use std::io::{stdin, stdout, Write};
-use termion::{
-    event::Key,
-    input::TermRead,
-    raw::IntoRawMode,
-    color,
-    style,
-};
-
 
 fn main() {
     // Get arguments from command line
