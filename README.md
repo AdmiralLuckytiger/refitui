@@ -14,6 +14,17 @@ the program will allow the user to scroll through the document, and repaint the 
 
 4. Users can press __CTRL+Q__ to exit the text viewer.
 
+5. User can edit the file typing with the keyboard. 
+
+## TO-DO LIst
+- [x] Basic setup and functionality of the command line tool
+
+- [ ] Change header 
+
+- [x] Add description for the command line tool with structopt
+
+- [ ] Add functionality of writing
+
 ---
 
 > This is my personal implementation of the Text viewer project presented on "Practical System Programming for Rust Developers" form Packt editorial.
